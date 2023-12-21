@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SC - Detail Employee,Chrome 120.0.0.0,,,2023-12-14 16:44:27,2023-12-14 16:45:58,1m - 30.645s,PASSED
+,,,,,,,
+Test Cases/Time/View Detail,Chrome 120.0.0.0,,,2023-12-14 16:44:28,2023-12-14 16:45:52,1m - 23.920s,PASSED
+custom.auth.checkAuthL(),Chrome 120.0.0.0,,,2023-12-14 16:44:28,2023-12-14 16:45:28,59.661s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/a_Time""))",Chrome 120.0.0.0,,,2023-12-14 16:45:28,2023-12-14 16:45:44,16.131s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_username""), ""smith"")",Chrome 120.0.0.0,,,2023-12-14 16:45:44,2023-12-14 16:45:49,5.353s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/div_View""))",Chrome 120.0.0.0,,,2023-12-14 16:45:49,2023-12-14 16:45:50,0.713s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_View""))",Chrome 120.0.0.0,,,2023-12-14 16:45:50,2023-12-14 16:45:52,1.578s,PASSED
+,,,,,,,
+Test Cases/Login/Logout,Chrome 120.0.0.0,,,2023-12-14 16:45:52,2023-12-14 16:45:58,6.226s,PASSED
+custom.auth.checkAuthL(),Chrome 120.0.0.0,,,2023-12-14 16:45:52,2023-12-14 16:45:52,0.007s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/span_Paul Collings""))",Chrome 120.0.0.0,,,2023-12-14 16:45:52,2023-12-14 16:45:56,3.965s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/a_Logout""))",Chrome 120.0.0.0,,,2023-12-14 16:45:56,2023-12-14 16:45:58,1.615s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-14 16:45:58,2023-12-14 16:45:58,0.285s,PASSED

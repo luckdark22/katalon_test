@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "948A12BA9E013306A6DC88712DAA502C",
+  "keywordClasses": [
+    {
+      "name": "custom.auth",
+      "keywordMethods": [
+        {
+          "name": "checkAuthL",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
